@@ -1,0 +1,11 @@
+#Archivo .yaml
+
+path: c:\Users\alber\Desktop\data
+train: c:\Users\alber\Desktop\data\images
+val: c:\Users\alber\Desktop\data\images
+
+#Classes
+
+
+names: 
+    0: azul
